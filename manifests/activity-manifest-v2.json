@@ -1,0 +1,126 @@
+{
+  "schema": 2,
+  "storageNamespace": "fsn:y9t2:activity:<section>:<field>",
+  "activities": [
+    {
+      "section": "m1s1",
+      "title": "Specific-needs sorter",
+      "mechanic": "Scenario sorting",
+      "fields": 5,
+      "evidence": "saved responses, text export and optional folio snapshot",
+      "route": "activity.html?section=m1s1"
+    },
+    {
+      "section": "m1s2",
+      "title": "Choice-factor matrix",
+      "mechanic": "Choice-factor matrix",
+      "fields": 5,
+      "evidence": "saved responses, text export and optional folio snapshot",
+      "route": "activity.html?section=m1s2"
+    },
+    {
+      "section": "m1s3",
+      "title": "Circumstance meal planner",
+      "mechanic": "Meal-plan builder",
+      "fields": 5,
+      "evidence": "saved responses, text export and optional folio snapshot",
+      "route": "activity.html?section=m1s3"
+    },
+    {
+      "section": "m2s1",
+      "title": "Context before conclusion",
+      "mechanic": "Claim repair",
+      "fields": 4,
+      "evidence": "saved responses, text export and optional folio snapshot",
+      "route": "activity.html?section=m2s1"
+    },
+    {
+      "section": "m2s2",
+      "title": "Ingredient and process check",
+      "mechanic": "Ingredient-and-process audit",
+      "fields": 4,
+      "evidence": "saved responses, text export and optional folio snapshot",
+      "route": "activity.html?section=m2s2"
+    },
+    {
+      "section": "m2s3",
+      "title": "Source reliability ladder",
+      "mechanic": "Source reliability ladder",
+      "fields": 5,
+      "evidence": "saved responses, text export and optional folio snapshot",
+      "route": "activity.html?section=m2s3"
+    },
+    {
+      "section": "m3s1",
+      "title": "Lifecycle needs map",
+      "mechanic": "Lifecycle matching",
+      "fields": 4,
+      "evidence": "saved responses, text export and optional folio snapshot",
+      "route": "activity.html?section=m3s1"
+    },
+    {
+      "section": "m3s2",
+      "title": "School-day pattern planner",
+      "mechanic": "School-day pattern planner",
+      "fields": 5,
+      "evidence": "saved responses, text export and optional folio snapshot",
+      "route": "activity.html?section=m3s2"
+    },
+    {
+      "section": "m3s3",
+      "title": "Lifecycle meal design",
+      "mechanic": "Criteria decision table",
+      "fields": 5,
+      "evidence": "saved responses, text export and optional folio snapshot",
+      "route": "activity.html?section=m3s3"
+    },
+    {
+      "section": "m4s1",
+      "title": "Allergy or intolerance?",
+      "mechanic": "Risk communication comparison",
+      "fields": 4,
+      "evidence": "saved responses, text export and optional folio snapshot",
+      "route": "activity.html?section=m4s1"
+    },
+    {
+      "section": "m4s2",
+      "title": "Allergen label and workflow audit",
+      "mechanic": "Label-and-pathway audit",
+      "fields": 5,
+      "evidence": "saved responses, text export and optional folio snapshot",
+      "route": "activity.html?section=m4s2"
+    },
+    {
+      "section": "m4s3",
+      "title": "Safer preparation pathway",
+      "mechanic": "Workflow sequencing",
+      "fields": 5,
+      "evidence": "saved responses, text export and optional folio snapshot",
+      "route": "activity.html?section=m4s3"
+    },
+    {
+      "section": "m5s1",
+      "title": "Claim versus evidence",
+      "mechanic": "Product comparison",
+      "fields": 4,
+      "evidence": "saved responses, text export and optional folio snapshot",
+      "route": "activity.html?section=m5s1"
+    },
+    {
+      "section": "m5s2",
+      "title": "Fibre pattern planner",
+      "mechanic": "Fibre swap planner",
+      "fields": 5,
+      "evidence": "saved responses, text export and optional folio snapshot",
+      "route": "activity.html?section=m5s2"
+    },
+    {
+      "section": "m5s3",
+      "title": "Support network map",
+      "mechanic": "Support-network map",
+      "fields": 5,
+      "evidence": "saved responses, text export and optional folio snapshot",
+      "route": "activity.html?section=m5s3"
+    }
+  ]
+}

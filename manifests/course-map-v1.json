@@ -1,0 +1,125 @@
+{
+  "course": "Food for Specific Needs",
+  "modules": [
+    {
+      "number": 1,
+      "title": "Understanding specific food needs",
+      "sections": [
+        {
+          "id": "m1s1",
+          "title": "Circumstances that create specific food needs",
+          "activity": "Specific-needs sorter",
+          "visual": "assets/visuals/m1s1.svg"
+        },
+        {
+          "id": "m1s2",
+          "title": "Factors that shape food choices",
+          "activity": "Choice-factor matrix",
+          "visual": "assets/visuals/m1s2.svg"
+        },
+        {
+          "id": "m1s3",
+          "title": "Meal planning for a specific circumstance",
+          "activity": "Circumstance meal planner",
+          "visual": "assets/visuals/m1s3.svg"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Culture, belief and food practices",
+      "sections": [
+        {
+          "id": "m2s1",
+          "title": "Food taboos and cultural patterns",
+          "activity": "Context before conclusion",
+          "visual": "assets/visuals/m2s1.svg"
+        },
+        {
+          "id": "m2s2",
+          "title": "Religious and ethical food choices",
+          "activity": "Ingredient and process check",
+          "visual": "assets/visuals/m2s2.svg"
+        },
+        {
+          "id": "m2s3",
+          "title": "Respectful investigation and evidence",
+          "activity": "Source reliability ladder",
+          "visual": "assets/visuals/m2s3.svg"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Nutrition through the lifecycle",
+      "sections": [
+        {
+          "id": "m3s1",
+          "title": "How needs change across life stages",
+          "activity": "Lifecycle needs map",
+          "visual": "assets/visuals/m3s1.svg"
+        },
+        {
+          "id": "m3s2",
+          "title": "Adolescent nutrition and growth",
+          "activity": "School-day pattern planner",
+          "visual": "assets/visuals/m3s2.svg"
+        },
+        {
+          "id": "m3s3",
+          "title": "Designing a lifecycle meal",
+          "activity": "Lifecycle meal design",
+          "visual": "assets/visuals/m3s3.svg"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Allergies, intolerance and safer planning",
+      "sections": [
+        {
+          "id": "m4s1",
+          "title": "Allergy versus intolerance",
+          "activity": "Allergy or intolerance?",
+          "visual": "assets/visuals/m4s1.svg"
+        },
+        {
+          "id": "m4s2",
+          "title": "Labels, allergen risk and cross-contact",
+          "activity": "Allergen label and workflow audit",
+          "visual": "assets/visuals/m4s2.svg"
+        },
+        {
+          "id": "m4s3",
+          "title": "Planning food for a person with a diagnosed need",
+          "activity": "Safer preparation pathway",
+          "visual": "assets/visuals/m4s3.svg"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Modified foods, fibre and support",
+      "sections": [
+        {
+          "id": "m5s1",
+          "title": "Nutritionally modified and fortified foods",
+          "activity": "Claim versus evidence",
+          "visual": "assets/visuals/m5s1.svg"
+        },
+        {
+          "id": "m5s2",
+          "title": "Dietary fibre and adolescent needs",
+          "activity": "Fibre pattern planner",
+          "visual": "assets/visuals/m5s2.svg"
+        },
+        {
+          "id": "m5s3",
+          "title": "Support networks and evaluating reliable help",
+          "activity": "Support network map",
+          "visual": "assets/visuals/m5s3.svg"
+        }
+      ]
+    }
+  ]
+}

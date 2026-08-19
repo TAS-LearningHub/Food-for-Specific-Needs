@@ -1,0 +1,13 @@
+{
+  "course": "Food for Specific Needs",
+  "cohort": "Year 9 (Teacher to confirm against older Year 10 program)",
+  "term": "Term 2",
+  "modules": 5,
+  "sections": 15,
+  "knowledgeQuestions": 150,
+  "activities": 15,
+  "visuals": 15,
+  "recipes": 9,
+  "releaseCeiling": "local-accepted",
+  "treeHashBeforeHandoff": "024bd111ac20f8bca6359b002b1699ccdcd9dc029c42b0ff0e2ee0e90401bf41"
+}

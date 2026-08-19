@@ -1,0 +1,15 @@
+{
+  "modules": 5,
+  "sections": 15,
+  "explicitQuestions": 150,
+  "purposefulVisuals": 15,
+  "validatedVideos": 14,
+  "presentations": 5,
+  "authenticActivities": 15,
+  "folioStages": 8,
+  "recipes": 9,
+  "formalAssessmentInvented": false,
+  "courseProgress": "module checks plus written responses; resume route stored locally",
+  "courseIdentityImage": "assets/food-for-specific-needs-identity-v1.png",
+  "releaseState": "local-only"
+}

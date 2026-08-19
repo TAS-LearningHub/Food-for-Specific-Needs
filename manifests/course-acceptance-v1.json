@@ -1,0 +1,36 @@
+{
+  "status": "accepted-local",
+  "course": "Food for Specific Needs",
+  "cohort": "Year 9 Term 2 — Teacher to confirm against older Year 10 program",
+  "acceptedOn": "2026-08-19",
+  "candidateTreeHash": "0f3948af9cf81e09a61bfedb622b3013e9d0129a1a30f475c095b2ec563c061a",
+  "candidateFiles": 60,
+  "gates": {
+    "sourceAndScope": "pass",
+    "foundation": "pass",
+    "specialistProduction": "pass",
+    "integration": "pass",
+    "contentAudit": "pass",
+    "visualAudit": "pass",
+    "technicalAcceptance": "pass"
+  },
+  "releaseState": {
+    "committed": false,
+    "pushed": false,
+    "deployed": false,
+    "liveVerified": false,
+    "reason": "No publication authority was recorded."
+  },
+  "teacherToConfirm": [
+    "Year 9 versus Year 10 cohort conflict",
+    "2019 syllabus continuation versus approved early implementation",
+    "2026 practical sequence and local allergy controls",
+    "Any current Term 2 formal notification",
+    "Local cultural authority and permission"
+  ],
+  "residualLimitations": [
+    "Browser saving is device- and browser-specific; students must export backups.",
+    "Ten validated videos are intentionally reused across fifteen sections where the process is shared.",
+    "Formal assessment notification not yet added."
+  ]
+}

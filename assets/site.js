@@ -1,0 +1,4 @@
+
+const toggle=document.querySelector('.nav-toggle');if(toggle){toggle.addEventListener('click',()=>{const n=document.querySelector('#site-nav');const open=n.classList.toggle('open');toggle.setAttribute('aria-expanded',String(open));});}
+document.querySelectorAll('[data-save]').forEach(el=>{const key='fsn:y9t2:'+el.dataset.save;const prior=localStorage.getItem(key);if(prior!==null)el.value=prior;el.addEventListener('input',()=>{localStorage.setItem(key,el.value);const s=el.parentElement.querySelector('.status');if(s)s.textContent='Saved on this device';});});
+window.FSN={download(name,text,type='text/plain'){const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([text],{type}));a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(a.href),800);},print(){window.print();}};

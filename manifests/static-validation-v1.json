@@ -1,0 +1,18 @@
+{
+  "status": "pass",
+  "checksPassed": 260,
+  "errors": [],
+  "treeHash": "b106eb7c7d8fc48594f9a0f70f08d7a38b93b98501fa19833b783770199e94af",
+  "counts": {
+    "files": 67,
+    "htmlRoutes": 15,
+    "modules": 5,
+    "sections": 15,
+    "questions": 150,
+    "activities": 15,
+    "visuals": 15,
+    "recipes": 9,
+    "videos": 14,
+    "presentations": 5
+  }
+}

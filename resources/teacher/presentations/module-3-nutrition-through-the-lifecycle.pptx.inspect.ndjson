@@ -1,0 +1,121 @@
+{"kind":"deck","id":"pr/wg6a6a","name":"Deck"}
+{"kind":"layout","layoutId":"68dfc881-87cb-4f65-a49c-63e7d073c516","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"402bc3d0-76a5-46df-a9a2-8e18a2017391","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/q953zz","slide":1,"title":"MODULE 3","textShapes":4}
+{"kind":"shape","id":"sh/gj6hwbyd","slide":1,"bbox":[900,-120,430,430]}
+{"kind":"shape","id":"sh/fix0n6xs","slide":1,"bbox":[1010,390,360,360]}
+{"kind":"textbox","id":"sh/uhozu1g7","slide":1,"text":"MODULE 3","textPreview":"MODULE 3","textChars":8,"textLines":1,"bbox":[80,90,300,34]}
+{"kind":"textbox","id":"sh/tgfilwfm","slide":1,"text":"Nutrition through the lifecycle","textPreview":"Nutrition through the lifecycle","textChars":31,"textLines":1,"bbox":[80,160,760,200]}
+{"kind":"textbox","id":"sh/sf6hsby1","slide":1,"text":"Why do food needs and priorities change as people grow and age?","textPreview":"Why do food needs and priorities change as people grow and age?","textChars":63,"textLines":1,"bbox":[80,410,760,110]}
+{"kind":"textbox","id":"sh/7ex0j6hg","slide":1,"text":"Food Technology · Year 9 Term 2","textPreview":"Food Technology · Year 9 Term 2","textChars":31,"textLines":1,"bbox":[80,610,520,28]}
+{"kind":"notes","id":"nt/q953zz","slide":1,"text":""}
+{"kind":"slide","id":"sl/xj4nip","slide":2,"title":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 3","textShapes":11}
+{"kind":"textbox","id":"sh/xgf69wvm","slide":2,"text":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 3","textPreview":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 3","textChars":36,"textLines":1,"bbox":[72,34,560,24]}
+{"kind":"textbox","id":"sh/adony1cb","slide":2,"text":"Purpose","textPreview":"Purpose","textChars":7,"textLines":1,"bbox":[870,34,338,24]}
+{"kind":"shape","id":"sh/bexo76dg","slide":2,"bbox":[72,681,1136,2]}
+{"kind":"textbox","id":"sh/or65wru5","slide":2,"text":"The question that drives this module","textPreview":"The question that drives this module","textChars":36,"textLines":1,"bbox":[72,92,800,52]}
+{"kind":"shape","id":"sh/9sf65wvq","slide":2,"bbox":[72,178,1136,180]}
+{"kind":"textbox","id":"sh/mp4nuhcz","slide":2,"text":"Why do food needs and priorities change as people grow and age?","textPreview":"Why do food needs and priorities change as people grow and age?","textChars":63,"textLines":1,"bbox":[118,222,1040,94]}
+{"kind":"textbox","id":"sh/nqx43mdk","slide":2,"text":"By the end, you should be able to…","textPreview":"By the end, you should be able to…","textChars":34,"textLines":1,"bbox":[72,410,480,38]}
+{"kind":"textbox","id":"sh/0nm5srut","slide":2,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[90,490,58,44]}
+{"kind":"textbox","id":"sh/1ovm1cve","slide":2,"text":"explain the evidence boundary","textPreview":"explain the evidence boundary","textChars":29,"textLines":1,"bbox":[150,487,270,76]}
+{"kind":"textbox","id":"sh/5oju1kja","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[462,490,58,44]}
+{"kind":"textbox","id":"sh/knadsf2p","slide":2,"text":"apply the idea to a food-design decision","textPreview":"apply the idea to a food-design decision","textChars":40,"textLines":1,"bbox":[522,487,270,76]}
+{"kind":"textbox","id":"sh/jm1cza1k","slide":2,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[834,490,58,44]}
+{"kind":"textbox","id":"sh/il8vqpkz","slide":2,"text":"justify what must happen next","textPreview":"justify what must happen next","textChars":29,"textLines":1,"bbox":[894,487,270,76]}
+{"kind":"notes","id":"nt/xj4nip","slide":2,"text":""}
+{"kind":"slide","id":"sl/jcmdrv","slide":3,"title":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 3","textShapes":9}
+{"kind":"textbox","id":"sh/83e5cji9","slide":3,"text":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 3","textPreview":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 3","textChars":36,"textLines":1,"bbox":[72,34,560,24]}
+{"kind":"textbox","id":"sh/72543eho","slide":3,"text":"Section 3.1","textPreview":"Section 3.1","textChars":11,"textLines":1,"bbox":[870,34,338,24]}
+{"kind":"shape","id":"sh/61wna903","slide":3,"bbox":[72,681,1136,2]}
+{"kind":"textbox","id":"sh/h87m9ozq","slide":3,"text":"Needs change across the lifecycle","textPreview":"Needs change across the lifecycle","textChars":33,"textLines":1,"bbox":[72,90,920,72]}
+{"kind":"textbox","id":"sh/g7y5gjil","slide":3,"text":"Growth, body size, activity, pregnancy, health and ageing affect priorities.","textPreview":"Growth, body size, activity, pregnancy, health and ageing affect priorities.","textChars":76,"textLines":1,"bbox":[72,190,520,150]}
+{"kind":"shape","id":"sh/v6p47eh0","slide":3,"bbox":[690,168,430,330]}
+{"kind":"shape","id":"sh/u5wne90f","slide":3,"bbox":[735,205,52,52]}
+{"kind":"textbox","id":"sh/5w76d8z2","slide":3,"text":"PERSON","textPreview":"PERSON","textChars":6,"textLines":1,"bbox":[812,212,230,42]}
+{"kind":"shape","id":"sh/4vy5k3ih","slide":3,"bbox":[758,261,6,35]}
+{"kind":"shape","id":"sh/yx036h4z","slide":3,"bbox":[735,301,52,52]}
+{"kind":"textbox","id":"sh/ji94fmlk","slide":3,"text":"NEED","textPreview":"NEED","textChars":4,"textLines":1,"bbox":[812,308,230,42]}
+{"kind":"shape","id":"sh/kjil8rmp","slide":3,"bbox":[758,357,6,35]}
+{"kind":"shape","id":"sh/lkrmhc3a","slide":3,"bbox":[735,397,52,52]}
+{"kind":"textbox","id":"sh/6l03ah4v","slide":3,"text":"VERIFY","textPreview":"VERIFY","textChars":6,"textLines":1,"bbox":[812,404,230,42]}
+{"kind":"textbox","id":"sh/7m94jmlg","slide":3,"text":"Design responsibility","textPreview":"Design responsibility","textChars":21,"textLines":1,"bbox":[72,428,370,34]}
+{"kind":"textbox","id":"sh/8nilcrm1","slide":3,"text":"Population guidance is a frame, not a personal prescription.","textPreview":"Population guidance is a frame, not a personal prescription.","textChars":60,"textLines":1,"bbox":[72,476,520,104]}
+{"kind":"notes","id":"nt/jcmdrv","slide":3,"text":""}
+{"kind":"slide","id":"sl/zl3qtp","slide":4,"title":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 3","textShapes":9}
+{"kind":"textbox","id":"sh/0rudkrqt","slide":4,"text":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 3","textPreview":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 3","textChars":36,"textLines":1,"bbox":[72,34,560,24]}
+{"kind":"textbox","id":"sh/zqlwrmp8","slide":4,"text":"Section 3.2","textPreview":"Section 3.2","textChars":11,"textLines":1,"bbox":[870,34,338,24]}
+{"kind":"shape","id":"sh/ypcvih8n","slide":4,"bbox":[72,681,1136,2]}
+{"kind":"textbox","id":"sh/9g3exw7a","slide":4,"text":"Adolescents need realistic variety","textPreview":"Adolescents need realistic variety","textChars":34,"textLines":1,"bbox":[72,90,920,72]}
+{"kind":"textbox","id":"sh/8fuxorqp","slide":4,"text":"Regular meals and a varied pattern can support growth, learning and activity.","textPreview":"Regular meals and a varied pattern can support growth, learning and activity.","textChars":77,"textLines":1,"bbox":[72,190,520,150]}
+{"kind":"shape","id":"sh/nelwvmp4","slide":4,"bbox":[690,168,430,330]}
+{"kind":"shape","id":"sh/mtcvmh8j","slide":4,"bbox":[735,205,52,52]}
+{"kind":"textbox","id":"sh/xkne1g76","slide":4,"text":"FACTOR","textPreview":"FACTOR","textChars":6,"textLines":1,"bbox":[812,212,230,42]}
+{"kind":"shape","id":"sh/wjexsbql","slide":4,"bbox":[758,261,6,35]}
+{"kind":"shape","id":"sh/ytcjmpov","slide":4,"bbox":[735,301,52,52]}
+{"kind":"textbox","id":"sh/zulkvupg","slide":4,"text":"EFFECT","textPreview":"EFFECT","textChars":6,"textLines":1,"bbox":[812,308,230,42]}
+{"kind":"shape","id":"sh/0vu1oz61","slide":4,"bbox":[758,357,6,35]}
+{"kind":"shape","id":"sh/lw32x47m","slide":4,"bbox":[735,397,52,52]}
+{"kind":"textbox","id":"sh/mxcjqpo7","slide":4,"text":"RESPONSE","textPreview":"RESPONSE","textChars":8,"textLines":1,"bbox":[812,404,230,42]}
+{"kind":"textbox","id":"sh/nylkzups","slide":4,"text":"Design responsibility","textPreview":"Design responsibility","textChars":21,"textLines":1,"bbox":[72,428,370,34]}
+{"kind":"textbox","id":"sh/8ze1sz6d","slide":4,"text":"Do not compare bodies or casually recommend restrictive diets or supplements.","textPreview":"Do not compare bodies or casually recommend restrictive diets or supplements.","textChars":77,"textLines":1,"bbox":[72,476,520,104]}
+{"kind":"notes","id":"nt/zl3qtp","slide":4,"text":""}
+{"kind":"slide","id":"sl/otisj6","slide":5,"title":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 3","textShapes":9}
+{"kind":"textbox","id":"sh/nu1cbmds","slide":5,"text":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 3","textPreview":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 3","textChars":36,"textLines":1,"bbox":[72,34,560,24]}
+{"kind":"textbox","id":"sh/8vad4red","slide":5,"text":"Section 3.3","textPreview":"Section 3.3","textChars":11,"textLines":1,"bbox":[870,34,338,24]}
+{"kind":"shape","id":"sh/9wjudwvy","slide":5,"bbox":[72,681,1136,2]}
+{"kind":"textbox","id":"sh/yp8byxwb","slide":5,"text":"Lifecycle meals need testable criteria","textPreview":"Lifecycle meals need testable criteria","textChars":38,"textLines":1,"bbox":[72,90,920,72]}
+{"kind":"textbox","id":"sh/zqhc72dg","slide":5,"text":"Consider occasion, texture, transport, cost, time and broad nutrition priorities.","textPreview":"Consider occasion, texture, transport, cost, time and broad nutrition priorities.","textChars":81,"textLines":1,"bbox":[72,190,520,150]}
+{"kind":"shape","id":"sh/0rad07e1","slide":5,"bbox":[690,168,430,330]}
+{"kind":"shape","id":"sh/lsju9cvm","slide":5,"bbox":[735,205,52,52]}
+{"kind":"textbox","id":"sh/q18buxwz","slide":5,"text":"BRIEF","textPreview":"BRIEF","textChars":5,"textLines":1,"bbox":[812,212,230,42]}
+{"kind":"shape","id":"sh/b2hc32dk","slide":5,"bbox":[758,261,6,35]}
+{"kind":"shape","id":"sh/fylor6h8","slide":5,"bbox":[735,301,52,52]}
+{"kind":"textbox","id":"sh/uxcnylgn","slide":5,"text":"CRITERIA","textPreview":"CRITERIA","textChars":8,"textLines":1,"bbox":[812,308,230,42]}
+{"kind":"shape","id":"sh/h0n6tgze","slide":5,"bbox":[758,357,6,35]}
+{"kind":"shape","id":"sh/gze50byt","slide":5,"bbox":[735,397,52,52]}
+{"kind":"textbox","id":"sh/325ovqh4","slide":5,"text":"EVALUATE","textPreview":"EVALUATE","textChars":8,"textLines":1,"bbox":[812,404,230,42]}
+{"kind":"textbox","id":"sh/21wn2lgj","slide":5,"text":"Design responsibility","textPreview":"Design responsibility","textChars":21,"textLines":1,"bbox":[72,428,370,34]}
+{"kind":"textbox","id":"sh/p4n6x0za","slide":5,"text":"Evaluate each criterion with evidence, then improve.","textPreview":"Evaluate each criterion with evidence, then improve.","textChars":52,"textLines":1,"bbox":[72,476,520,104]}
+{"kind":"notes","id":"nt/otisj6","slide":5,"text":""}
+{"kind":"slide","id":"sl/htl60f","slide":6,"title":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 3","textShapes":10}
+{"kind":"textbox","id":"sh/ihov6lw7","slide":6,"text":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 3","textPreview":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 3","textChars":36,"textLines":1,"bbox":[72,34,560,24]}
+{"kind":"textbox","id":"sh/5kzu10vy","slide":6,"text":"Worked scenario","textPreview":"Worked scenario","textChars":15,"textLines":1,"bbox":[870,34,338,24]}
+{"kind":"shape","id":"sh/kjqd8ved","slide":6,"bbox":[72,681,1136,2]}
+{"kind":"textbox","id":"sh/76hc3ad4","slide":6,"text":"A decision worth slowing down","textPreview":"A decision worth slowing down","textChars":29,"textLines":1,"bbox":[72,92,860,52]}
+{"kind":"shape","id":"sh/6l8va5wj","slide":6,"bbox":[72,175,14,300]}
+{"kind":"textbox","id":"sh/t8ze50vu","slide":6,"text":"A school-day plan is nutritionally ambitious but needs two hours of preparation, expensive ingredients and refrigeration the student cannot access.","textPreview":"A school-day plan is nutritionally ambitious but needs two hours of preparation, expensive ingredients and refrigeration the student cann...","textChars":147,"textLines":1,"bbox":[120,180,620,268]}
+{"kind":"shape","id":"sh/s7qdcfep","slide":6,"bbox":[800,176,360,300]}
+{"kind":"textbox","id":"sh/fa1w7ad0","slide":6,"text":"USE THIS SEQUENCE","textPreview":"USE THIS SEQUENCE","textChars":17,"textLines":1,"bbox":[840,215,280,30]}
+{"kind":"textbox","id":"sh/u98ve5wf","slide":6,"text":"1  Verify the need","textPreview":"1  Verify the need","textChars":18,"textLines":1,"bbox":[838,275,280,34]}
+{"kind":"textbox","id":"sh/sfixwf2l","slide":6,"text":"2  Trace the evidence","textPreview":"2  Trace the evidence","textChars":21,"textLines":1,"bbox":[838,323,280,34]}
+{"kind":"textbox","id":"sh/dgre5k36","slide":6,"text":"3  Test the response","textPreview":"3  Test the response","textChars":20,"textLines":1,"bbox":[838,371,280,34]}
+{"kind":"textbox","id":"sh/qd0fupkf","slide":6,"text":"4  State the stop point","textPreview":"4  State the stop point","textChars":23,"textLines":1,"bbox":[838,419,280,34]}
+{"kind":"textbox","id":"sh/re9w3al0","slide":6,"text":"Turn the brief into four measurable criteria and propose one realistic change.","textPreview":"Turn the brief into four measurable criteria and propose one realistic change.","textChars":78,"textLines":1,"bbox":[120,535,1040,76]}
+{"kind":"notes","id":"nt/htl60f","slide":6,"text":""}
+{"kind":"slide","id":"sl/7lyu1s","slide":7,"title":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 3","textShapes":15}
+{"kind":"textbox","id":"sh/dojmxcvm","slide":7,"text":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 3","textPreview":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 3","textChars":36,"textLines":1,"bbox":[72,34,560,24]}
+{"kind":"textbox","id":"sh/q1s32xcv","slide":7,"text":"Apply","textPreview":"Apply","textChars":5,"textLines":1,"bbox":[870,34,338,24]}
+{"kind":"shape","id":"sh/bm14v2dg","slide":7,"bbox":[72,681,1136,2]}
+{"kind":"textbox","id":"sh/ozal07up","slide":7,"text":"Make the reasoning visible","textPreview":"Make the reasoning visible","textChars":26,"textLines":1,"bbox":[72,92,800,52]}
+{"kind":"textbox","id":"sh/p0jmtsva","slide":7,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[72,185,70,46]}
+{"kind":"textbox","id":"sh/2x83yxcz","slide":7,"text":"What is verified?","textPreview":"What is verified?","textChars":17,"textLines":1,"bbox":[154,185,430,54]}
+{"kind":"textbox","id":"sh/3y14r2dk","slide":7,"text":"Name the person, need and source.","textPreview":"Name the person, need and source.","textChars":33,"textLines":1,"bbox":[154,245,430,75]}
+{"kind":"textbox","id":"sh/gvqlwnut","slide":7,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[640,185,70,46]}
+{"kind":"textbox","id":"sh/1wzmpsve","slide":7,"text":"What is assumed?","textPreview":"What is assumed?","textChars":16,"textLines":1,"bbox":[722,185,430,54]}
+{"kind":"textbox","id":"sh/5o3i1oz6","slide":7,"text":"Do not disguise a guess as a fact.","textPreview":"Do not disguise a guess as a fact.","textChars":34,"textLines":1,"bbox":[722,245,430,75]}
+{"kind":"textbox","id":"sh/4nu18jyl","slide":7,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[72,375,70,46]}
+{"kind":"textbox","id":"sh/jm10zyh0","slide":7,"text":"Which evidence matters?","textPreview":"Which evidence matters?","textChars":23,"textLines":1,"bbox":[154,375,430,54]}
+{"kind":"textbox","id":"sh/ilsj6tgf","slide":7,"text":"Use authority, currency and context.","textPreview":"Use authority, currency and context.","textChars":36,"textLines":1,"bbox":[154,435,430,75]}
+{"kind":"textbox","id":"sh/hkjixozu","slide":7,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[640,375,70,46]}
+{"kind":"textbox","id":"sh/wja14jy9","slide":7,"text":"What must happen next?","textPreview":"What must happen next?","textChars":22,"textLines":1,"bbox":[722,375,430,54]}
+{"kind":"textbox","id":"sh/vi10veh4","slide":7,"text":"Recommend, refer, improve—or stop.","textPreview":"Recommend, refer, improve—or stop.","textChars":34,"textLines":1,"bbox":[722,435,430,75]}
+{"kind":"notes","id":"nt/7lyu1s","slide":7,"text":""}
+{"kind":"slide","id":"sl/uy9nqo","slide":8,"title":"Before you leave this module…","textShapes":5}
+{"kind":"textbox","id":"sh/5s3e18vm","slide":8,"text":"Before you leave this module…","textPreview":"Before you leave this module…","textChars":29,"textLines":1,"bbox":[76,80,900,60]}
+{"kind":"textbox","id":"sh/ipsv6dcb","slide":8,"text":"Write one design decision you can now justify, the evidence behind it, and one boundary you will not cross.","textPreview":"Write one design decision you can now justify, the evidence behind it, and one boundary you will not cross.","textChars":107,"textLines":1,"bbox":[76,180,930,120]}
+{"kind":"shape","id":"sh/3q1wzydw","slide":8,"bbox":[76,360,1128,120]}
+{"kind":"textbox","id":"sh/g3ad43u5","slide":8,"text":"Evidence + context + a clear next action","textPreview":"Evidence + context + a clear next action","textChars":40,"textLines":1,"bbox":[110,395,1060,50]}
+{"kind":"textbox","id":"sh/h4jux8vq","slide":8,"text":"Sources: Eat for Health; Nutrient Reference Values; NESA Food Technology 7–10 (2019).","textPreview":"Sources: Eat for Health; Nutrient Reference Values; NESA Food Technology 7–10 (2019).","textChars":85,"textLines":1,"bbox":[76,555,1128,70]}
+{"kind":"textbox","id":"sh/u1sv2tcz","slide":8,"text":"Educational information only · Individual plans and school procedures take priority.","textPreview":"Educational information only · Individual plans and school procedures take priority.","textChars":84,"textLines":1,"bbox":[76,648,1128,24]}
+{"kind":"notes","id":"nt/uy9nqo","slide":8,"text":""}

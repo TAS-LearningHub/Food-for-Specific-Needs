@@ -1,0 +1,42 @@
+{
+  "status": "pass",
+  "staticValidation": {
+    "status": "pass",
+    "checksPassed": 231,
+    "errors": [],
+    "treeHash": "ede018557f5876a9e95aecbe6c836c36f77fa837ec5190d60d26908c2f1363ed",
+    "counts": {
+      "files": 57,
+      "htmlRoutes": 15,
+      "modules": 5,
+      "sections": 15,
+      "questions": 150,
+      "activities": 15,
+      "visuals": 15,
+      "recipes": 9,
+      "videos": 10,
+      "presentations": 5
+    }
+  },
+  "browserValidation": {
+    "status": "pass",
+    "checksPassed": 126,
+    "visualPlacements": 30,
+    "modules": 10,
+    "activities": 15,
+    "routes": 7,
+    "errors": []
+  },
+  "interactionEvidence": [
+    "Module 4 rendered 3 sections, 30 questions, 3 saved responses and 3 visible section links.",
+    "Correct-answer feedback was verified in the in-app browser.",
+    "Module response, applied activity and folio responses persisted after reload.",
+    "Mobile menu opened with all 8 course links; section navigation remained visible.",
+    "No browser console warnings or errors were observed on the final teacher-resources route."
+  ],
+  "documentEvidence": {
+    "teacherProgram": "7 rendered Letter pages reviewed",
+    "deliveryLedger": "4 rendered Letter pages reviewed"
+  },
+  "presentationEvidence": "Five editable PPTX files, eight slides each; 40 artifact-tool slide renders reviewed."
+}

@@ -1,0 +1,22 @@
+{
+  "status": "pass",
+  "auditedOn": "2026-08-19",
+  "placementsChecked": 30,
+  "method": "All 15 section visual routes rendered at desktop and 390-pixel mobile test widths; contact sheets reviewed in full.",
+  "checks": {
+    "correctSectionIdentity": 15,
+    "meaningfulAltText": 15,
+    "intrinsicSvgCanvas": 15,
+    "desktopNoOverflow": 15,
+    "mobileNoOverflow": 15,
+    "readablePlacement": 15
+  },
+  "presentationReview": {
+    "decks": 5,
+    "slides": 40,
+    "renderedAndReviewed": 40,
+    "visualSystem": "consistent food-technology family palette with module-specific teaching scenarios",
+    "placeholderCheck": "pass"
+  },
+  "residual": "The diagrams deliberately share one visual grammar so students learn the reasoning sequence; the content labels and decisions differ by section."
+}

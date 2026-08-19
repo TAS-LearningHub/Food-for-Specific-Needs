@@ -1,0 +1,18 @@
+{
+  "schema": 2,
+  "route": "folio.html",
+  "stages": [
+    "need and brief",
+    "success criteria",
+    "research and ideas",
+    "chosen idea and plan",
+    "safer production readiness",
+    "making evidence",
+    "testing",
+    "evaluation and improvement"
+  ],
+  "storageNamespace": "fsn:y9t2:folio:v2",
+  "migration": "Compatible text from fsn:y9t2:folio:1..8 is copied on first use; original keys are retained.",
+  "photos": "Optional teacher-authorised photos for making and testing are resized locally and included in backup/submission export.",
+  "assessmentBoundary": "Teacher to confirm how this folio is used; no separate current Term 2 formal task was found."
+}

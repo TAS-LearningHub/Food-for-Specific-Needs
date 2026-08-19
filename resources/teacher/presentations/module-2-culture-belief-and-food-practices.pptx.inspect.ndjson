@@ -1,0 +1,121 @@
+{"kind":"deck","id":"pr/nmwvzz","name":"Deck"}
+{"kind":"layout","layoutId":"57616c6c-6167-4b27-8402-8f436ae3a6ed","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"eb98e59c-ed22-4137-b118-9e924b373349","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/4b9mxf","slide":1,"title":"MODULE 2","textShapes":4}
+{"kind":"shape","id":"sh/0jql0ru1","slide":1,"bbox":[900,-120,430,430]}
+{"kind":"shape","id":"sh/zih4rmdg","slide":1,"bbox":[1010,390,360,360]}
+{"kind":"textbox","id":"sh/eh83yhcb","slide":1,"text":"MODULE 2","textPreview":"MODULE 2","textChars":8,"textLines":1,"bbox":[80,90,300,34]}
+{"kind":"textbox","id":"sh/98jmxwvy","slide":1,"text":"Culture, belief and food practices","textPreview":"Culture, belief and food practices","textChars":34,"textLines":1,"bbox":[80,160,760,200]}
+{"kind":"textbox","id":"sh/o7qlorud","slide":1,"text":"How can we investigate food practices without reducing people to stereotypes?","textPreview":"How can we investigate food practices without reducing people to stereotypes?","textChars":77,"textLines":1,"bbox":[80,410,760,110]}
+{"kind":"textbox","id":"sh/n6h4vmds","slide":1,"text":"Food Technology · Year 9 Term 2","textPreview":"Food Technology · Year 9 Term 2","textChars":31,"textLines":1,"bbox":[80,610,520,28]}
+{"kind":"notes","id":"nt/4b9mxf","slide":1,"text":""}
+{"kind":"slide","id":"sl/rr1kug","slide":2,"title":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 2","textShapes":11}
+{"kind":"textbox","id":"sh/m9wr2pkz","slide":2,"text":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 2","textPreview":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 2","textChars":36,"textLines":1,"bbox":[72,34,560,24]}
+{"kind":"textbox","id":"sh/9cnqx4ja","slide":2,"text":"Purpose","textPreview":"Purpose","textChars":7,"textLines":1,"bbox":[870,34,338,24]}
+{"kind":"shape","id":"sh/8be94z25","slide":2,"bbox":[72,681,1136,2]}
+{"kind":"textbox","id":"sh/z6l8ral8","slide":2,"text":"The question that drives this module","textPreview":"The question that drives this module","textChars":36,"textLines":1,"bbox":[72,92,800,52]}
+{"kind":"shape","id":"sh/y5c7ypkn","slide":2,"bbox":[72,178,1136,180]}
+{"kind":"textbox","id":"sh/l83qtkje","slide":2,"text":"How can we investigate food practices without reducing people to stereotypes?","textPreview":"How can we investigate food practices without reducing people to stereotypes?","textChars":77,"textLines":1,"bbox":[118,222,1040,94]}
+{"kind":"textbox","id":"sh/07u90f2t","slide":2,"text":"By the end, you should be able to…","textPreview":"By the end, you should be able to…","textChars":34,"textLines":1,"bbox":[72,410,480,38]}
+{"kind":"textbox","id":"sh/bil8nalc","slide":2,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[90,490,58,44]}
+{"kind":"textbox","id":"sh/qhc7u5kr","slide":2,"text":"explain the evidence boundary","textPreview":"explain the evidence boundary","textChars":29,"textLines":1,"bbox":[150,487,270,76]}
+{"kind":"textbox","id":"sh/obalon6d","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[462,490,58,44]}
+{"kind":"textbox","id":"sh/9c32hsny","slide":2,"text":"apply the idea to a food-design decision","textPreview":"apply the idea to a food-design decision","textChars":40,"textLines":1,"bbox":[522,487,270,76]}
+{"kind":"textbox","id":"sh/m9s3mxo7","slide":2,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[834,490,58,44]}
+{"kind":"textbox","id":"sh/na1kfi5s","slide":2,"text":"justify what must happen next","textPreview":"justify what must happen next","textChars":29,"textLines":1,"bbox":[894,487,270,76]}
+{"kind":"notes","id":"nt/rr1kug","slide":2,"text":""}
+{"kind":"slide","id":"sl/xfb2ik","slide":3,"title":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 2","textShapes":9}
+{"kind":"textbox","id":"sh/gby1wbi5","slide":3,"text":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 2","textPreview":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 2","textChars":36,"textLines":1,"bbox":[72,34,560,24]}
+{"kind":"textbox","id":"sh/fap0n61k","slide":3,"text":"Section 2.1","textPreview":"Section 2.1","textChars":11,"textLines":1,"bbox":[870,34,338,24]}
+{"kind":"shape","id":"sh/u9gju1kz","slide":3,"bbox":[72,681,1136,2]}
+{"kind":"textbox","id":"sh/t87ilwje","slide":3,"text":"Food taboos depend on context","textPreview":"Food taboos depend on context","textChars":29,"textLines":1,"bbox":[72,90,920,72]}
+{"kind":"textbox","id":"sh/87y1sr29","slide":3,"text":"Food meaning develops through community, history, identity, environment and belief.","textPreview":"Food meaning develops through community, history, identity, environment and belief.","textChars":83,"textLines":1,"bbox":[72,190,520,150]}
+{"kind":"shape","id":"sh/7mp0jm1o","slide":3,"bbox":[690,168,430,330]}
+{"kind":"shape","id":"sh/6lgjq1k3","slide":3,"bbox":[735,205,52,52]}
+{"kind":"textbox","id":"sh/lknihwji","slide":3,"text":"PERSON","textPreview":"PERSON","textChars":6,"textLines":1,"bbox":[812,212,230,42]}
+{"kind":"shape","id":"sh/kje1or2x","slide":3,"bbox":[758,261,6,35]}
+{"kind":"shape","id":"sh/6dw3a1sb","slide":3,"bbox":[735,301,52,52]}
+{"kind":"textbox","id":"sh/7e5436tw","slide":3,"text":"NEED","textPreview":"NEED","textChars":4,"textLines":1,"bbox":[812,308,230,42]}
+{"kind":"shape","id":"sh/sfelcbah","slide":3,"bbox":[758,357,6,35]}
+{"kind":"shape","id":"sh/tgnm5gb2","slide":3,"bbox":[735,397,52,52]}
+{"kind":"textbox","id":"sh/ipc361sf","slide":3,"text":"VERIFY","textPreview":"VERIFY","textChars":6,"textLines":1,"bbox":[812,404,230,42]}
+{"kind":"textbox","id":"sh/jq5kzmt0","slide":3,"text":"Design responsibility","textPreview":"Design responsibility","textChars":21,"textLines":1,"bbox":[72,428,370,34]}
+{"kind":"textbox","id":"sh/krel8ral","slide":3,"text":"Unfamiliar does not mean inferior or unsafe.","textPreview":"Unfamiliar does not mean inferior or unsafe.","textChars":44,"textLines":1,"bbox":[72,476,520,104]}
+{"kind":"notes","id":"nt/xfb2ik","slide":3,"text":""}
+{"kind":"slide","id":"sl/9qjx2v","slide":4,"title":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 2","textShapes":9}
+{"kind":"textbox","id":"sh/edsfqx4z","slide":4,"text":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 2","textPreview":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 2","textChars":36,"textLines":1,"bbox":[72,34,560,24]}
+{"kind":"textbox","id":"sh/1g3y1c3a","slide":4,"text":"Section 2.2","textPreview":"Section 2.2","textChars":11,"textLines":1,"bbox":[870,34,338,24]}
+{"kind":"shape","id":"sh/0fuxs7m5","slide":4,"bbox":[72,681,1136,2]}
+{"kind":"textbox","id":"sh/rq1wv2l8","slide":4,"text":"Religious and ethical choices can shape process","textPreview":"Religious and ethical choices can shape process","textChars":47,"textLines":1,"bbox":[72,90,920,72]}
+{"kind":"textbox","id":"sh/qpsfmx4n","slide":4,"text":"Ingredients, timing, certification, preparation and separation may matter.","textPreview":"Ingredients, timing, certification, preparation and separation may matter.","textChars":74,"textLines":1,"bbox":[72,190,520,150]}
+{"kind":"shape","id":"sh/dcjexs3e","slide":4,"bbox":[690,168,430,330]}
+{"kind":"shape","id":"sh/craxo7mt","slide":4,"bbox":[735,205,52,52]}
+{"kind":"textbox","id":"sh/3mhwrilc","slide":4,"text":"FACTOR","textPreview":"FACTOR","textChars":6,"textLines":1,"bbox":[812,212,230,42]}
+{"kind":"shape","id":"sh/2l8fid4r","slide":4,"bbox":[758,261,6,35]}
+{"kind":"shape","id":"sh/wnado7ad","slide":4,"bbox":[735,301,52,52]}
+{"kind":"textbox","id":"sh/xojuxcby","slide":4,"text":"EFFECT","textPreview":"EFFECT","textChars":6,"textLines":1,"bbox":[812,308,230,42]}
+{"kind":"shape","id":"sh/alsvmxs7","slide":4,"bbox":[758,357,6,35]}
+{"kind":"shape","id":"sh/bm1cv2ts","slide":4,"bbox":[735,397,52,52]}
+{"kind":"textbox","id":"sh/ozadknah","slide":4,"text":"RESPONSE","textPreview":"RESPONSE","textChars":8,"textLines":1,"bbox":[812,404,230,42]}
+{"kind":"textbox","id":"sh/9kjutsb2","slide":4,"text":"Design responsibility","textPreview":"Design responsibility","textChars":21,"textLines":1,"bbox":[72,428,370,34]}
+{"kind":"textbox","id":"sh/mx8vidsb","slide":4,"text":"Ask the person and verify—observance is not identical for everyone.","textPreview":"Ask the person and verify—observance is not identical for everyone.","textChars":67,"textLines":1,"bbox":[72,476,520,104]}
+{"kind":"notes","id":"nt/9qjx2v","slide":4,"text":""}
+{"kind":"slide","id":"sl/8226js","slide":5,"title":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 2","textShapes":9}
+{"kind":"textbox","id":"sh/9wr6povq","slide":5,"text":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 2","textPreview":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 2","textChars":36,"textLines":1,"bbox":[72,34,560,24]}
+{"kind":"textbox","id":"sh/mtgnu9wz","slide":5,"text":"Section 2.3","textPreview":"Section 2.3","textChars":11,"textLines":1,"bbox":[870,34,338,24]}
+{"kind":"shape","id":"sh/7u9onedk","slide":5,"bbox":[72,681,1136,2]}
+{"kind":"textbox","id":"sh/wji50je1","slide":5,"text":"Respectful claims show their limits","textPreview":"Respectful claims show their limits","textChars":35,"textLines":1,"bbox":[72,90,920,72]}
+{"kind":"textbox","id":"sh/hkr6tovm","slide":5,"text":"Check authority, purpose, currency and evidence.","textPreview":"Check authority, purpose, currency and evidence.","textChars":48,"textLines":1,"bbox":[72,190,520,150]}
+{"kind":"shape","id":"sh/ux0ny9wb","slide":5,"bbox":[690,168,430,330]}
+{"kind":"shape","id":"sh/vy9oredg","slide":5,"bbox":[735,205,52,52]}
+{"kind":"textbox","id":"sh/cny5ozex","slide":5,"text":"BRIEF","textPreview":"BRIEF","textChars":5,"textLines":1,"bbox":[812,212,230,42]}
+{"kind":"shape","id":"sh/xo76h4vi","slide":5,"bbox":[758,261,6,35]}
+{"kind":"shape","id":"sh/p4fadgna","slide":5,"bbox":[735,301,52,52]}
+{"kind":"textbox","id":"sh/o3mt4bmp","slide":5,"text":"CRITERIA","textPreview":"CRITERIA","textChars":8,"textLines":1,"bbox":[812,308,230,42]}
+{"kind":"shape","id":"sh/n2dsb654","slide":5,"bbox":[758,357,6,35]}
+{"kind":"shape","id":"sh/214b214j","slide":5,"bbox":[735,397,52,52]}
+{"kind":"textbox","id":"sh/xsfuhgn6","slide":5,"text":"EVALUATE","textPreview":"EVALUATE","textChars":8,"textLines":1,"bbox":[812,404,230,42]}
+{"kind":"textbox","id":"sh/cr6t8bml","slide":5,"text":"Design responsibility","textPreview":"Design responsibility","textChars":21,"textLines":1,"bbox":[72,428,370,34]}
+{"kind":"textbox","id":"sh/b6xsf650","slide":5,"text":"Local cultural knowledge requires local authority and permission.","textPreview":"Local cultural knowledge requires local authority and permission.","textChars":65,"textLines":1,"bbox":[72,476,520,104]}
+{"kind":"notes","id":"nt/8226js","slide":5,"text":""}
+{"kind":"slide","id":"sl/fhtiqv","slide":6,"title":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 2","textShapes":10}
+{"kind":"textbox","id":"sh/cjepsnqt","slide":6,"text":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 2","textPreview":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 2","textChars":36,"textLines":1,"bbox":[72,34,560,24]}
+{"kind":"textbox","id":"sh/ri58z2po","slide":6,"text":"Worked scenario","textPreview":"Worked scenario","textChars":15,"textLines":1,"bbox":[870,34,338,24]}
+{"kind":"shape","id":"sh/qxw7qx83","slide":6,"bbox":[72,681,1136,2]}
+{"kind":"textbox","id":"sh/1o7q5c7q","slide":6,"text":"A decision worth slowing down","textPreview":"A decision worth slowing down","textChars":29,"textLines":1,"bbox":[72,92,860,52]}
+{"kind":"shape","id":"sh/0nypw7q5","slide":6,"bbox":[72,175,14,300]}
+{"kind":"textbox","id":"sh/zmp832pk","slide":6,"text":"A menu draft says, ‘People from this culture never eat this ingredient,’ based on one social-media post.","textPreview":"A menu draft says, ‘People from this culture never eat this ingredient,’ based on one social-media post.","textChars":104,"textLines":1,"bbox":[120,180,620,268]}
+{"kind":"shape","id":"sh/elg7ux8z","slide":6,"bbox":[800,176,360,300]}
+{"kind":"textbox","id":"sh/hs36t876","slide":6,"text":"USE THIS SEQUENCE","textPreview":"USE THIS SEQUENCE","textChars":17,"textLines":1,"bbox":[840,215,280,30]}
+{"kind":"textbox","id":"sh/grupk3q1","slide":6,"text":"1  Verify the need","textPreview":"1  Verify the need","textChars":18,"textLines":1,"bbox":[838,275,280,34]}
+{"kind":"textbox","id":"sh/il4jidsr","slide":6,"text":"2  Trace the evidence","textPreview":"2  Trace the evidence","textChars":21,"textLines":1,"bbox":[838,323,280,34]}
+{"kind":"textbox","id":"sh/j6d0bitc","slide":6,"text":"3  Test the response","textPreview":"3  Test the response","textChars":20,"textLines":1,"bbox":[838,371,280,34]}
+{"kind":"textbox","id":"sh/k7m1knax","slide":6,"text":"4  State the stop point","textPreview":"4  State the stop point","textChars":23,"textLines":1,"bbox":[838,419,280,34]}
+{"kind":"textbox","id":"sh/58fidsbi","slide":6,"text":"Rewrite the claim, name better evidence and state what needs permission or confirmation.","textPreview":"Rewrite the claim, name better evidence and state what needs permission or confirmation.","textChars":88,"textLines":1,"bbox":[120,535,1040,76]}
+{"kind":"notes","id":"nt/fhtiqv","slide":6,"text":""}
+{"kind":"slide","id":"sl/pid2uk","slide":7,"title":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 2","textShapes":15}
+{"kind":"textbox","id":"sh/d8n69kni","slide":7,"text":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 2","textPreview":"FOOD FOR SPECIFIC NEEDS  ·  MODULE 2","textChars":36,"textLines":1,"bbox":[72,34,560,24]}
+{"kind":"textbox","id":"sh/q5w7y5o7","slide":7,"text":"Apply","textPreview":"Apply","textChars":5,"textLines":1,"bbox":[870,34,338,24]}
+{"kind":"shape","id":"sh/r65o7a5c","slide":7,"bbox":[72,681,1136,2]}
+{"kind":"textbox","id":"sh/4jepwf61","slide":7,"text":"Make the reasoning visible","textPreview":"Make the reasoning visible","textChars":26,"textLines":1,"bbox":[72,92,800,52]}
+{"kind":"textbox","id":"sh/54n6507m","slide":7,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[72,185,70,46]}
+{"kind":"textbox","id":"sh/ihc7u5ov","slide":7,"text":"What is verified?","textPreview":"What is verified?","textChars":17,"textLines":1,"bbox":[154,185,430,54]}
+{"kind":"textbox","id":"sh/3ilo3apg","slide":7,"text":"Name the person, need and source.","textPreview":"Name the person, need and source.","textChars":33,"textLines":1,"bbox":[154,245,430,75]}
+{"kind":"textbox","id":"sh/gfupsv6p","slide":7,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[640,185,70,46]}
+{"kind":"textbox","id":"sh/hg36107a","slide":7,"text":"What is assumed?","textPreview":"What is assumed?","textChars":16,"textLines":1,"bbox":[722,185,430,54]}
+{"kind":"textbox","id":"sh/pwzy5wba","slide":7,"text":"Do not disguise a guess as a fact.","textPreview":"Do not disguise a guess as a fact.","textChars":34,"textLines":1,"bbox":[722,245,430,75]}
+{"kind":"textbox","id":"sh/ovqhcrap","slide":7,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[72,375,70,46]}
+{"kind":"textbox","id":"sh/3uhg3mt4","slide":7,"text":"Which evidence matters?","textPreview":"Which evidence matters?","textChars":23,"textLines":1,"bbox":[154,375,430,54]}
+{"kind":"textbox","id":"sh/2t8zahsz","slide":7,"text":"Use authority, currency and context.","textPreview":"Use authority, currency and context.","textChars":36,"textLines":1,"bbox":[154,435,430,75]}
+{"kind":"textbox","id":"sh/1szy1cbe","slide":7,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[640,375,70,46]}
+{"kind":"textbox","id":"sh/g7qh87at","slide":7,"text":"What must happen next?","textPreview":"What must happen next?","textChars":22,"textLines":1,"bbox":[722,375,430,54]}
+{"kind":"textbox","id":"sh/f6hgzmt8","slide":7,"text":"Recommend, refer, improve—or stop.","textPreview":"Recommend, refer, improve—or stop.","textChars":34,"textLines":1,"bbox":[722,435,430,75]}
+{"kind":"notes","id":"nt/pid2uk","slide":7,"text":""}
+{"kind":"slide","id":"sl/yzgxaa","slide":8,"title":"Before you leave this module…","textShapes":5}
+{"kind":"textbox","id":"sh/onulkn61","slide":8,"text":"Before you leave this module…","textPreview":"Before you leave this module…","textChars":29,"textLines":1,"bbox":[76,80,900,60]}
+{"kind":"textbox","id":"sh/3mlkripg","slide":8,"text":"Write one design decision you can now justify, the evidence behind it, and one boundary you will not cross.","textPreview":"Write one design decision you can now justify, the evidence behind it, and one boundary you will not cross.","textChars":107,"textLines":1,"bbox":[76,180,930,120]}
+{"kind":"shape","id":"sh/21s3ixov","slide":8,"bbox":[76,360,1128,120]}
+{"kind":"textbox","id":"sh/10j2ps7a","slide":8,"text":"Evidence + context + a clear next action","textPreview":"Evidence + context + a clear next action","textChars":40,"textLines":1,"bbox":[110,395,1060,50]}
+{"kind":"textbox","id":"sh/gzalgn65","slide":8,"text":"Sources: teacher workbook; NESA Food Technology 7–10 (2019). Local Aboriginal Cultural Knowledge requires local authority.","textPreview":"Sources: teacher workbook; NESA Food Technology 7–10 (2019). Local Aboriginal Cultural Knowledge requires local authority.","textChars":122,"textLines":1,"bbox":[76,555,1128,70]}
+{"kind":"textbox","id":"sh/fy1knipk","slide":8,"text":"Educational information only · Individual plans and school procedures take priority.","textPreview":"Educational information only · Individual plans and school procedures take priority.","textChars":84,"textLines":1,"bbox":[76,648,1128,24]}
+{"kind":"notes","id":"nt/yzgxaa","slide":8,"text":""}

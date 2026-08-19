@@ -1,0 +1,36 @@
+{
+  "course": "Food for Specific Needs",
+  "stage": 23,
+  "frozenCandidateDigest": "e4c0638a9f2f883dd71acfbc1f4a36014a5fdc996c448dc7e6bb4efa9b8a34d9",
+  "routes": [
+    "index.html",
+    "module-1.html",
+    "module-2.html",
+    "module-3.html",
+    "module-4.html",
+    "module-5.html",
+    "activities.html",
+    "activity.html",
+    "folio.html",
+    "recipes.html",
+    "videos.html",
+    "assessment.html",
+    "teacher-resources.html"
+  ],
+  "inputs": [
+    "network-gap-contract-v1",
+    "network_content.py",
+    "five retained presentation decks",
+    "nine teacher-supplied recipes"
+  ],
+  "knownExceptions": [
+    "Year 9 versus older Year 10 program: Teacher to confirm",
+    "2019 versus approved early 2025 syllabus use: Teacher to confirm",
+    "No current separate Term 2 formal notification found",
+    "Local Aboriginal Cultural Knowledge requires local authority and permission"
+  ],
+  "invalidation": "Any change to a candidate file requires a new Stage 24 acceptance run.",
+  "releaseState": "local-only",
+  "digestScope": "All course files except acceptance/audit evidence manifests retained alongside the candidate",
+  "fileCountInDigest": 61
+}

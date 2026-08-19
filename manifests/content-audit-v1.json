@@ -1,0 +1,37 @@
+{
+  "status": "pass",
+  "candidate": "Food for Specific Needs — Year 9 Term 2 local course",
+  "auditedOn": "2026-08-19",
+  "authorityBoundary": {
+    "currentSyllabus": "Food Technology 7–10 Syllabus (2019)",
+    "newSyllabus": "Food Technology 7–10 Syllabus (2025): planning in 2026–27; implementation from 2028 unless school-approved early implementation",
+    "currentAssessment": "WWHS Year 9 Assessment Handbook 2026",
+    "historicalAssessment": "2024 Food for Specific Needs notification retained as historical evidence only",
+    "medical": "Educational information only; individual plans, qualified advice and school procedures take priority",
+    "cultural": "Local Aboriginal Cultural Knowledge requires local authority and permission"
+  },
+  "coverage": {
+    "modules": 5,
+    "sections": 15,
+    "theoryParagraphs": 45,
+    "knowledgeQuestions": 150,
+    "appliedActivities": 15,
+    "folioStages": 10,
+    "recipes": 9,
+    "videos": 10
+  },
+  "sourceFidelityChecks": [
+    "Year 9 Classroom identity retained; older Year 10 program conflict remains Teacher to confirm.",
+    "Exact Stage 5 outcome descriptions rechecked against the source program and corrected before acceptance.",
+    "2026 assessment schedule replaces the obsolete 2024 task dates and weighting.",
+    "Fibre values and allergy guidance use current Australian authority sources.",
+    "No recipe is represented as confirmed for the 2026 practical sequence."
+  ],
+  "teacherToConfirm": [
+    "Year 9 versus Year 10 cohort conflict",
+    "2019 syllabus continuation versus approved early implementation",
+    "2026 practical sequence and local allergy controls",
+    "Any current Term 2 formal notification",
+    "Local cultural authority and permission"
+  ]
+}
